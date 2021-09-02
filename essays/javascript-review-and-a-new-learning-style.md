@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Javascript and WODs
+title: Javascript Review and a New Learning Style
 date: 2021-09-01
 labels:
   - Javascript
