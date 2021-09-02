@@ -18,12 +18,7 @@ ICS111 is one of the first programming courses that I've taken. In this course w
 
 Here is some code from the Deck.java file:
 
-public class Deck
-{
-	Card [] myDeck;
-	Random bag;
-	int top; // To keep track of number of cards currently in deck
-	
+
 	Deck()
 	{
 		myDeck = new Card[52];
