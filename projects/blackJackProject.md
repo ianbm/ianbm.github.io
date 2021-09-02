@@ -9,7 +9,7 @@ labels:
   - Java
 summary: I created an application that simulates the card game Black Jack
 ---
-<img class="ui medium right floated rounded image" src="/images/blackJackProject.png">
+<img class="ui medium right floated rounded image" src="/images/blackJackProject.jpg">
 
 
 Black Jack is a card game where each player receives two cards. Each card has a value: numbered cards have a value of 2-10; Jacks, Queens, and Kings have a value of 10; Aces have a value of either 1 or 11. The objective is for your cards to add up to 21 without exceeding that number. The player with cards that add up to 21 (or closest to 21 if nobody has 21) without exceeding 21 is the winner.
