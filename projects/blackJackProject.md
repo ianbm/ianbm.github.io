@@ -75,4 +75,3 @@ public class Deck
 		}
 		return info;
 	}
-}
