@@ -18,7 +18,7 @@ ICS111 is one of the first programming courses that I've taken. In this course w
 
 Here is some code from the Deck.java file:
 
-
+```js
 	Deck()
 	{
 		myDeck = new Card[52];
@@ -72,3 +72,4 @@ Here is some code from the Deck.java file:
 		}
 		return info;
 	}
+```
