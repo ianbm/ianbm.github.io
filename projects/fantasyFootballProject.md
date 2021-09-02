@@ -11,4 +11,4 @@ labels:
   - Database
 summary: I created a web application that simulates Fantasy Football
 ---
-<img class="ui medium right floated rounded image" src="/images/fantasyFootball.jpg">
+<img class="ui medium right floated rounded image" src="/images/fantasyFootballProject.jpg">
