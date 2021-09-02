@@ -16,7 +16,6 @@ ICS111 is one of the first programming courses that I've taken. In this course w
 
 Here is some code from the Deck.java file:
 
-import java.util.*;
 public class Deck
 {
 	Card [] myDeck;
