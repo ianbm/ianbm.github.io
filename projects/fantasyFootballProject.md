@@ -12,7 +12,7 @@ labels:
   - Database
 summary: I created a web application that simulates Fantasy Football
 ---
-<img src="/images/fantasyFootballProject.jpg">
+<img src="/images/fantasyFootballProject.jpg" width="200" height="200">
 <img src="/images/fantasyFootballProject2.jpg">
 <img src="/images/fantasyFootballProject3.jpg">
 
