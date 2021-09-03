@@ -13,7 +13,7 @@ Black Jack is a card game where each player receives two cards. Each card has a 
 
 Intro to Comp Science I is the first of the programming courses that I've taken. In this course we learned the basics of programming and I learned my first programming language which was Java. We were assigned a final project which was to create an application using what we learned that semester. For my project, I chose to create a simulation of the game Black Jack.
 
-Here is some code from the Deck.java file:
+Link to project [here](https://github.com/ianbm/ianbm.github.io/tree/master/projects/blackJack).
 
 ```js
 Deck()
