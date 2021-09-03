@@ -52,6 +52,7 @@ int main(int argc, char *argv[])
         printf("\nWelcome! You can access the database by choosing an option below:\n");
 ```
 
+
 And here is some code from project2 (C++):
 ```js
 int main(int argc, char *argv[])
