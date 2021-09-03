@@ -10,8 +10,6 @@ labels:
   - C++
 summary: I created an application using C and C++
 ---
-<img class="ui medium right floated rounded image" src="/images/databaseProject.jpg">
-
 I took a Program Structure course and in this class, we learned both C and C++ programming languages. In this class, we were assigned two projects. Both projects are the same, except for the language they are written in. The first project was written in C, while the second project was written in C++.
 
 This project involves an interface where users are given the option to add, print all, find, or delete a record from the database. The data is stored in a database in the form of a linked list.
