@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/fantasyFootballProject.jpg
+image: images/fantasyFootball.png
 title: Fantasy Football
 permalink: projects/fantasyFootballProject
 date: 2017-02-03
