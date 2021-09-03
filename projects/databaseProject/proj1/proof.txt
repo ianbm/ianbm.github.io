@@ -1,0 +1,24 @@
+Script started on Thu 29 Oct 2020 11:08:15 AM HST
+]0;ianbm@uhx02:~/ICS212/project1[?1034huhx02:/home/i/ianbm/ICS212/project1% touch *.c
+]0;ianbm@uhx02:~/ICS212/project1uhx02:/home/i/ianbm/ICS212/project1% make
+gcc -ansi -pedantic-errors -Wall -c user_interface.c
+gcc -ansi -pedantic-errors -Wall -c database.c
+gcc -o project user_interface.o database.o
+]0;ianbm@uhx02:~/ICS212/project1uhx02:/home/i/ianbm/ICS212/project1% make
+make: `project' is up to date.
+]0;ianbm@uhx02:~/ICS212/project1uhx02:/home/i/ianbm/ICS212/project1% touch *.o
+]0;ianbm@uhx02:~/ICS212/project1uhx02:/home/i/ianbm/ICS212/project1% make
+gcc -o project user_interface.o database.o
+]0;ianbm@uhx02:~/ICS212/project1uhx02:/home/i/ianbm/ICS212/project1% make
+make: `project' is up to date.
+]0;ianbm@uhx02:~/ICS212/project1uhx02:/home/i/ianbm/ICS212/project1% touch *.h
+]0;ianbm@uhx02:~/ICS212/project1uhx02:/home/i/ianbm/ICS212/project1% make
+gcc -ansi -pedantic-errors -Wall -c user_interface.c
+gcc -ansi -pedantic-errors -Wall -c database.c
+gcc -o project user_interface.o database.o
+]0;ianbm@uhx02:~/ICS212/project1uhx02:/home/i/ianbm/ICS212/project1% make
+make: `project' is up to date.
+]0;ianbm@uhx02:~/ICS212/project1uhx02:/home/i/ianbm/ICS212/project1% exit
+exit
+
+Script done on Thu 29 Oct 2020 11:08:42 AM HST

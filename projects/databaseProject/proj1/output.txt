@@ -1,0 +1,252 @@
+Script started on Thu 29 Oct 2020 01:02:14 PM HST
+]0;ianbm@uhx02:~/ICS212/project1[?1034huhx02:/home/i/ianbm/ICS212/project1% ./project 
+
+Welcome! You can access the database by choosing an option below:
+
+These are the available options:
+
+add:		Add a new record to the database
+printall:	Print all records in the database
+find:		Find record(s)
+delete:		Delete existing record(s) from the database
+quit:		Quit the program
+
+Enter an option: printall
+
+The list is empty!
+
+These are the available options:
+
+add:		Add a new record to the database
+printall:	Print all records in the database
+find:		Find record(s)
+delete:		Delete existing record(s) from the database
+quit:		Quit the program
+
+Enter an option: add
+
+Enter the account number: 222111
+Enter the name: Spongebob Squarepants
+Enter the address (press <esc> + <new line> when done):
+1234 Bikini Boto tom
+^[
+
+These are the available options:
+
+add:		Add a new record to the database
+printall:	Print all records in the database
+find:		Find record(s)
+delete:		Delete existing record(s) from the database
+quit:		Quit the program
+
+Enter an option: print
+
+Account Number: 222111
+Name: Spongebob Squarepants
+Address: 1234 Bikini Bottom 
+
+
+These are the available options:
+
+add:		Add a new record to the database
+printall:	Print all records in the database
+find:		Find record(s)
+delete:		Delete existing record(s) from the database
+quit:		Quit the program
+
+Enter an option: ad
+
+Enter the account number: 111111
+Enter the name: Squidward Tentacles
+Enter the address (press <esc> + <new line> when done):
+5678
+Bikini
+Bottom^[
+
+These are the available options:
+
+add:		Add a new record to the database
+printall:	Print all records in the database
+find:		Find record(s)
+delete:		Delete existing record(s) from the database
+quit:		Quit the program
+
+Enter an option: add  
+
+Enter the account number: 11  -1
+Invalid accountnumber! Account numbers must be a postive integer.
+Enter the account number: 111222
+Enter the name: Mr. Krabs
+Enter the address (press <esc> + <new line> when done):
+9012 Bikini Bottom^[
+
+These are the available options:
+
+add:		Add a new record to the database
+printall:	Print all records in the database
+find:		Find record(s)
+delete:		Delete existing record(s) from the database
+quit:		Quit the program
+
+Enter an option: print
+
+Account Number: 222111
+Name: Spongebob Squarepants
+Address: 1234 Bikini Bottom 
+
+
+Account Number: 111222
+Name: Mr. Krabs
+Address: 9012 Bikini Bottom
+
+
+Account Number: 111111
+Name: Squidward Tentacles
+Address: 5678 Bikini Bottom
+
+
+These are the available options:
+
+add:		Add a new record to the database
+printall:	Print all records in the database
+find:		Find record(s)
+delete:		Delete existing record(s) from the database
+quit:		Quit the program
+
+Enter an option: find
+
+Enter the account number: 111222
+
+Account Number: 111222
+Name: Mr. Krabs
+Address: 9012 Bikini Bottom
+
+
+These are the available options:
+
+add:		Add a new record to the database
+printall:	Print all records in the database
+find:		Find record(s)
+delete:		Delete existing record(s) from the database
+quit:		Quit the program
+
+Enter an option: delete
+
+Enter the account number: 111222
+
+These are the available options:
+
+add:		Add a new record to the database
+printall:	Print all records in the database
+find:		Find record(s)
+delete:		Delete existing record(s) from the database
+quit:		Quit the program
+
+Enter an option: find
+
+Enter the account number: 111222
+
+Could not find a record with account number 111222 in the list
+
+These are the available options:
+
+add:		Add a new record to the database
+printall:	Print all records in the database
+find:		Find record(s)
+delete:		Delete existing record(s) from the database
+quit:		Quit the program
+
+Enter an option: printall
+
+Account Number: 222111
+Name: Spongebob Squarepants
+Address: 1234 Bikini Bottom 
+
+
+Account Number: 111111
+Name: Squidward Tentacles
+Address: 5678 Bikini Bottom
+
+
+These are the available options:
+
+add:		Add a new record to the database
+printall:	Print all records in the database
+find:		Find record(s)
+delete:		Delete existing record(s) from the database
+quit:		Quit the program
+
+Enter an option: quit
+]0;ianbm@uhx02:~/ICS212/project1uhx02:/home/i/ianbm/ICS212/project1% ./project 
+
+Welcome! You can access the database by choosing an option below:
+
+These are the available options:
+
+add:		Add a new record to the database
+printall:	Print all records in the database
+find:		Find record(s)
+delete:		Delete existing record(s) from the database
+quit:		Quit the program
+
+Enter an option: printall
+
+Account Number: 222111
+Name: Spongebob Squarepants
+Address: 1234 Bikini Bottom 
+
+
+Account Number: 111111
+Name: Squidward Tentacles
+Address: 5678 Bikini Bottom
+
+
+These are the available options:
+
+add:		Add a new record to the database
+printall:	Print all records in the database
+find:		Find record(s)
+delete:		Delete existing record(s) from the database
+quit:		Quit the program
+
+Enter an option: delete 111111       
+
+Enter the account number: 111111
+
+These are the available options:
+
+add:		Add a new record to the database
+printall:	Print all records in the database
+find:		Find record(s)
+delete:		Delete existing record(s) from the database
+quit:		Quit the program
+
+Enter an option: delete
+
+Enter the account number: 222111
+
+These are the available options:
+
+add:		Add a new record to the database
+printall:	Print all records in the database
+find:		Find record(s)
+delete:		Delete existing record(s) from the database
+quit:		Quit the program
+
+Enter an option: printall
+
+The list is empty!
+
+These are the available options:
+
+add:		Add a new record to the database
+printall:	Print all records in the database
+find:		Find record(s)
+delete:		Delete existing record(s) from the database
+quit:		Quit the program
+
+Enter an option: quit
+]0;ianbm@uhx02:~/ICS212/project1uhx02:/home/i/ianbm/ICS212/project1% exit
+exit
+
+Script done on Thu 29 Oct 2020 01:04:46 PM HST
