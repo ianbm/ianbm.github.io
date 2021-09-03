@@ -1,0 +1,14 @@
+Script started on Wed 02 Dec 2020 08:49:44 PM HST
+]0;ianbm@uhx02:~/ICS212/project2[?1034huhx02:/home/i/ianbm/ICS212/project2% make -f debug.mak 
+g++ -ansi -pedantic-errors -Wall -DDEBUG -c user_interface.cpp
+g++ -ansi -pedantic-errors -Wall -DDEBUG -c llist.cpp
+g++ -o project_debug user_interface.o llist.o
+]0;ianbm@uhx02:~/ICS212/project2uhx02:/home/i/ianbm/ICS212/project2% rm *.o
+]0;ianbm@uhx02:~/ICS212/project2uhx02:/home/i/ianbm/ICS212/project2% make -f release.mak 
+g++ -ansi -pedantic-errors -Wall -c user_interface.cpp
+g++ -ansi -pedantic-errors -Wall -c llist.cpp
+g++ -o project user_interface.o llist.o
+]0;ianbm@uhx02:~/ICS212/project2uhx02:/home/i/ianbm/ICS212/project2% exit
+exit
+
+Script done on Wed 02 Dec 2020 08:50:06 PM HST

@@ -1,0 +1,349 @@
+Script started on Wed 02 Dec 2020 08:35:25 PM HST
+]0;ianbm@uhx02:~/ICS212/project2[?1034huhx02:/home/i/ianbm/ICS212/project2% ./project
+
+Welcome! You can access the database by choosing an option below:
+
+-----------------------------------------------------------
+These are the available options:
+
+add:		Add a new record to the database
+printall:	Print all records in the database
+find:		Find record(s)
+delete:		Delete existing record(s) from the database
+quit:		Quit the program
+
+-----------------------------------------------------------
+Enter an option: printall
+
+The list is empty!
+
+-----------------------------------------------------------
+These are the available options:
+
+add:		Add a new record to the database
+printall:	Print all records in the database
+find:		Find record(s)
+delete:		Delete existing record(s) from the database
+quit:		Quit the program
+
+-----------------------------------------------------------
+Enter an option: add
+
+Enter the account number: 222111
+Enter the name: Spongebob Squarepants
+Enter the address (press <esc> + <new line> when done):
+123 Bikini Bottom
+^[
+
+adding record...
+
+
+-----------------------------------------------------------
+These are the available options:
+
+add:		Add a new record to the database
+printall:	Print all records in the database
+find:		Find record(s)
+delete:		Delete existing record(s) from the database
+quit:		Quit the program
+
+-----------------------------------------------------------
+Enter an option: print
+
+Account Number: 222111
+Name: Spongebob
+Address: 123 Bikini Bottom 
+
+
+-----------------------------------------------------------
+These are the available options:
+
+add:		Add a new record to the database
+printall:	Print all records in the database
+find:		Find record(s)
+delete:		Delete existing record(s) from the database
+quit:		Quit the program
+
+-----------------------------------------------------------
+Enter an option: ad
+
+Enter the account number: 111111
+Enter the name: Squidward Tentacles
+Enter the address (press <esc> + <new line> when done):
+5678
+Bikini
+Bottom^[
+
+adding record...
+
+
+-----------------------------------------------------------
+These are the available options:
+
+add:		Add a new record to the database
+printall:	Print all records in the database
+find:		Find record(s)
+delete:		Delete existing record(s) from the database
+quit:		Quit the program
+
+-----------------------------------------------------------
+Enter an option: add
+
+Enter the account number: -1
+Invalid accountnumber! Account numbers must be a postive integer.
+Enter the account number: 111222
+Enter the name: Mr. Krabs
+Enter the address (press <esc> + <new line> when done):
+9012 Bikini Bottom^[
+
+adding record...
+
+
+-----------------------------------------------------------
+These are the available options:
+
+add:		Add a new record to the database
+printall:	Print all records in the database
+find:		Find record(s)
+delete:		Delete existing record(s) from the database
+quit:		Quit the program
+
+-----------------------------------------------------------
+Enter an option: print
+
+Account Number: 222111
+Name: Spongebob
+Address: 123 Bikini Bottom 
+
+
+Account Number: 111222
+Name: Mr.
+Address: 9012 Bikini Bottom
+
+
+Account Number: 111111
+Name: Squidward
+Address: 5678 Bikini Bottom
+
+
+-----------------------------------------------------------
+These are the available options:
+
+add:		Add a new record to the database
+printall:	Print all records in the database
+find:		Find record(s)
+delete:		Delete existing record(s) from the database
+quit:		Quit the program
+
+-----------------------------------------------------------
+Enter an option: find
+
+Enter the account number: 111222
+
+Account Number: 111222
+Name: Mr.
+Address: 9012 Bikini Bottom
+
+
+-----------------------------------------------------------
+These are the available options:
+
+add:		Add a new record to the database
+printall:	Print all records in the database
+find:		Find record(s)
+delete:		Delete existing record(s) from the database
+quit:		Quit the program
+
+-----------------------------------------------------------
+Enter an option: delete
+
+Enter the account number: 111222
+
+deleting record...
+
+
+-----------------------------------------------------------
+These are the available options:
+
+add:		Add a new record to the database
+printall:	Print all records in the database
+find:		Find record(s)
+delete:		Delete existing record(s) from the database
+quit:		Quit the program
+
+-----------------------------------------------------------
+Enter an option: find
+
+Enter the account number: 111222
+
+Could not find a record with account number 111222 in the list
+
+-----------------------------------------------------------
+These are the available options:
+
+add:		Add a new record to the database
+printall:	Print all records in the database
+find:		Find record(s)
+delete:		Delete existing record(s) from the database
+quit:		Quit the program
+
+-----------------------------------------------------------
+Enter an option: printall
+
+Account Number: 222111
+Name: Spongebob
+Address: 123 Bikini Bottom 
+
+
+Account Number: 111111
+Name: Squidward
+Address: 5678 Bikini Bottom
+
+
+-----------------------------------------------------------
+These are the available options:
+
+add:		Add a new record to the database
+printall:	Print all records in the database
+find:		Find record(s)
+delete:		Delete existing record(s) from the database
+quit:		Quit the program
+
+-----------------------------------------------------------
+Enter an option: quit
+]0;ianbm@uhx02:~/ICS212/project2uhx02:/home/i/ianbm/ICS212/project2% ./de[K[Kproject_debug 
+
+[DEBUG] called readfile() function...
+[DEBUG] filename: data.txt
+
+[DEBUG] adding account...
+[DEBUG] Account Number: 222111
+[DEBUG] Name: Spongebob
+[DEBUG] Address: 123 Bikini Bottom 
+
+
+[DEBUG] called addRecord() function...
+[DEBUG] adding account...
+[DEBUG] Account Number: 111111
+[DEBUG] Name: Squidward
+[DEBUG] Address: 5678 Bikini Bottom
+
+
+[DEBUG] called addRecord() function...
+
+Welcome! You can access the database by choosing an option below:
+
+-----------------------------------------------------------
+These are the available options:
+
+add:		Add a new record to the database
+printall:	Print all records in the database
+find:		Find record(s)
+delete:		Delete existing record(s) from the database
+quit:		Quit the program
+
+-----------------------------------------------------------
+Enter an option: printall
+
+[DEBUG] overloaded << operator
+[DEBUG] Printing all records in the database...
+
+
+Account Number: 222111
+Name: Spongebob
+Address: 123 Bikini Bottom 
+
+
+Account Number: 111111
+Name: Squidward
+Address: 5678 Bikini Bottom
+
+
+-----------------------------------------------------------
+These are the available options:
+
+add:		Add a new record to the database
+printall:	Print all records in the database
+find:		Find record(s)
+delete:		Delete existing record(s) from the database
+quit:		Quit the program
+
+-----------------------------------------------------------
+Enter an option: delete
+
+Enter the account number: 111111
+
+deleting record...
+
+
+[DEBUG] called deleteRecord() function...
+[DEBUG] Account Number: 111111
+[DEBUG] searching database for account number 111111
+
+[DEBUG] deleting account...
+
+
+-----------------------------------------------------------
+These are the available options:
+
+add:		Add a new record to the database
+printall:	Print all records in the database
+find:		Find record(s)
+delete:		Delete existing record(s) from the database
+quit:		Quit the program
+
+-----------------------------------------------------------
+Enter an option: delete
+
+Enter the account number: 222111
+
+deleting record...
+
+
+[DEBUG] called deleteRecord() function...
+[DEBUG] Account Number: 222111
+[DEBUG] searching database for account number 222111
+
+[DEBUG] deleting account...
+
+
+-----------------------------------------------------------
+These are the available options:
+
+add:		Add a new record to the database
+printall:	Print all records in the database
+find:		Find record(s)
+delete:		Delete existing record(s) from the database
+quit:		Quit the program
+
+-----------------------------------------------------------
+Enter an option: printall
+
+[DEBUG] overloaded << operator
+[DEBUG] Printing all records in the database...
+
+
+The list is empty!
+
+-----------------------------------------------------------
+These are the available options:
+
+add:		Add a new record to the database
+printall:	Print all records in the database
+find:		Find record(s)
+delete:		Delete existing record(s) from the database
+quit:		Quit the program
+
+-----------------------------------------------------------
+Enter an option: quit
+
+[DEBUG] called writefile() function...
+[DEBUG] filename: data.txt
+
+
+[DEBUG] called cleanup() function...
+
+]0;ianbm@uhx02:~/ICS212/project2uhx02:/home/i/ianbm/ICS212/project2% exit
+exit
+
+Script done on Wed 02 Dec 2020 08:39:18 PM HST
