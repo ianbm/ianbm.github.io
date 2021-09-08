@@ -10,7 +10,7 @@ labels:
   - C++
 summary: I created an application using C and C++
 ---
-<img class="ui medium right floated rounded image" src="/images/databaseProject.jpg">
+<img class="ui medium right floated rounded image" src="/images/database.png">
 
 I took a Program Structure course and in this class, we learned both C and C++ programming languages. In this class, we were assigned two projects. Both projects are the same, except for the language they are written in. The first project was written in C, while the second project was written in C++.
 
