@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/databaseProject.jpg
+image: images/terminal.jpg
 title: Database Project
 permalink: projects/databaseProject
 date: 2020-10-07
