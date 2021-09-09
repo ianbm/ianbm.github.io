@@ -8,7 +8,7 @@ date: 2020-10-07
 labels:
   - C
   - C++
-summary: I created an application using C and C++
+summary: An application that stores data written in C and C++
 ---
 <img class="ui medium right floated rounded image" src="/images/database.png">
 
