@@ -7,7 +7,7 @@ permalink: projects/blackJackProject
 date: 2016-10-07
 labels:
   - Java
-summary: I created an application that simulates the card game Black Jack
+summary: An application that simulates the card game Black Jack
 ---
 <img class="ui medium right floated rounded image" src="/images/blackjack.png">
 
