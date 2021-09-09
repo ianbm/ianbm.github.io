@@ -18,8 +18,8 @@ A few years ago I took a Database Systems class which covered topics like HTML, 
 
 This was my first project using a database. It was also my first time using SQL and PHP. One of the main focuses of this class was security, and I learned how people are able to manipulate input boxes to 'hack' databases. To prevent these hacks, we had to check the user's input before connecting to the database.
 
-<img src="/images/ffootball1.png" width="50%" height="50%">
-<img src="/images/ffootball2.png" width="50%" height="50%">
-<img src="/images/ffootball3.png" width="50%" height="50%">
+<img src="/images/ffootball1.png" width="75%" height="75%">
+<img src="/images/ffootball2.png" width="75%" height="75%">
+<img src="/images/ffootball3.png" width="75%" height="75%">
 
 Link to the project [here](https://github.com/ianbm/ianbm.github.io/tree/master/projects/fantasyFootball/www).
