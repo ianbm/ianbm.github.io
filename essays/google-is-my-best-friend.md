@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: My Best Friend Google
+title: Google is my Best Friend
 date: 2021-09-09
 labels:
   - javascript
