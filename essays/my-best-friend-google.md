@@ -1,10 +1,10 @@
 ---
 layout: essay
 type: essay
-title: My Best Friend: Google
+title: My Best Friend Google
 date: 2021-09-09
 labels:
-  - Javascript
+  - javascript
 ---
 
 Whenever I have a question, the first thing I do is usually to search for an answer using Google. Especially when it comes to programming, Google is basically my best friend. Google gives me a list of links to forums where my questions was already asked by someone else. Oftentimes, only one or two of the links will provide answers that are actually useful for my problem. Why do some questions get great responses, but others do not? It probably depends on how the question was asked. When asking a question, it is important to show your willingness to learn.
