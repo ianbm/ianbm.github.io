@@ -23,4 +23,4 @@ This was my first project using a database. It was also my first time using SQL 
 <img src="/images/ffootball3.png" width="75%" height="75%">
 </p>
 
-Link to the project [here](https://github.com/ianbm/ianbm.github.io/tree/master/projects/fantasyFootball/www).
+Link to project [here](https://github.com/ianbm/ianbm.github.io/tree/master/projects/fantasyFootball/www).
