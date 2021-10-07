@@ -8,11 +8,11 @@ labels:
 ---
 After using Semantic UI for a couple weeks, I have to say that UI frameworks are very helpful for website design. Although they can be complicated, there a few advantages to using a UI framework compared to using just play HTML and CSS. A couple of the main advantages that I've found through my own experience with Semantic UI are that they can save a lot of time, and that they make it easier to layout the elements of a webpage the way you want them.
 ## How UI frameworks can save time
-Using just HTML and CSS, we have to define classes ourselves. For example, creating a div with the class "column" does nothing until you define the column class like so:
+Using just HTML and CSS, we have to define classes ourselves. For example, creating a div with the class "column" or "row" does nothing until you define the column classes like so:
 
 <img src="/images/columnClass.png" width="200px">
 
-With a UI framework, we can skip the defining part. We can use classes that are already defined by the framework. Then all we have left to do is the easy/fun part: changing the style. That makes designing a webpage a lot simpler and less tedious.
+With a UI framework, we can skip the defining part. We can use classes that are already defined by the framework. Then all we have left to do is the easy/fun part: changing the style. That makes designing a webpage a lot simpler and less tedious. It would also make the source code look cleaner since there are less classes that need to be defined.
 ## How UI frameworks help with layout
 We created a page called BrowserHistory, first using only HTML and CSS, then with Semantic UI. Here are two screenshots: one of a page using just HTML and CSS, and the other using Semantic UI.
 
