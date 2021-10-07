@@ -10,7 +10,7 @@ After using Semantic UI for a couple weeks, I have to say that UI frameworks are
 ## How UI frameworks can save time
 Using just HTML and CSS, we have to define classes ourselves. For example, creating a div with the class "column" does nothing until you define the column class like so:
 
-<img src="/images/columnClass.png" width="300px">
+<img src="/images/columnClass.png" width="200px">
 
 With a UI framework, we can skip the defining part. We can use classes that are already defined by the framework. Then all we have left to do is the easy/fun part: changing the style. That makes designing a webpage a lot simpler and less tedious.
 ## How UI frameworks help with layout
