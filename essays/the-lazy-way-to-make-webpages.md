@@ -16,7 +16,9 @@ With a UI framework, we can skip the defining part. Then all we have left to do 
 ##How UI frameworks help with layout
 Here are two screenshots: one of a page using just HTML and CSS, and the other using Semantic UI.
 
-HTML/CSS: <img src="/images/htmlCssPage.png" width="500px">
+HTML/CSS: 
+<p align="center">
+<img src="/images/htmlCssPage.png" width="500px">
 
 Semantic UI: <img src="/images/semanticUIPage.png" width="500px">
 
