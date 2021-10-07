@@ -12,9 +12,9 @@ Using just HTML and CSS, we have to define classes ourselves. For example, creat
 
 <img src="/images/columnClass.png" width="300px">
 
-With a UI framework, we can skip the defining part. Then all we have left to do is the easy/fun part: changing the style.
+With a UI framework, we can skip the defining part. We can use classes that are already defined by the framework. Then all we have left to do is the easy/fun part: changing the style. That makes designing a webpage a lot simpler and less tedious.
 ## How UI frameworks help with layout
-Here are two screenshots: one of a page using just HTML and CSS, and the other using Semantic UI.
+We created a page called BrowserHistory, first using only HTML and CSS, then with Semantic UI. Here are two screenshots: one of a page using just HTML and CSS, and the other using Semantic UI.
 
 ### HTML/CSS: 
 <img src="/images/htmlCssPage.png" width="500px">
