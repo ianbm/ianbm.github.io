@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Unknowingly using Design Patterns
-date: 2021-12-01
+date: 2021-12-02
 labels:
 - design patterns
 ---
@@ -14,8 +14,8 @@ We all heard the phrase: "Practice makes perfect." Or in other words, it means t
 
 So what is a design pattern? It's a reusable solution to recurring problems in software design. It's sort of like a template. These are especially helpful for new programmers.
 
-## Did I really just do that?
-The first thing that came to mind when I learned about design patterns is our final project for ICS 314 which involves creating a functional application using what we learned throughout the semester. Our final project used a template that was provided by the professor. This was especially helpful for me because there were concepts like prototypes and routers, which were all new to me and a bit confusing at first. Now, if we break it down even further, we can see some of the design patterns that we used for the project. Keep in mind that most of the code was done without know what a design pattern is. You can view the final project on [GitHub](https://github.com/surf-connect/surf-connect). Here are some examples of design patterns we used in the final project:
+## Deja Vu
+The first thing that came to mind when I learned about design patterns is our final project for ICS 314 which involves creating a functional application using what we learned throughout the semester. Our final project used a template that was provided by the professor. This was especially helpful for me because there were concepts like prototypes and routers, which were all new to me and a bit confusing at first. Now, if we break it down even further, we can see some of the design patterns that we used for the project. Keep in mind that most of the code was done without knowing what a design pattern is. You can view the final project on [GitHub](https://github.com/surf-connect/surf-connect). Here are some examples of design patterns we used in the final project:
 
 ### Observer (Publish-Subscribe)
 This design pattern helps software designers display only certain data pieces of data to the users. Our final project has a user page where we want to display only the logged in user's profile. This user page would need a subscription in order to access the user data. In our final project, you can view all the publications in the [Publications.js](https://github.com/surf-connect/surf-connect/blob/master/app/imports/startup/server/Publications.js) file.
