@@ -8,8 +8,9 @@ labels:
 ---
 ## When you learn something that you already know...
 We all heard the phrase: "Practice makes perfect." Or in other words, it means that the more you practice an activity, the better you get at it. I've been programming for a few years now, and have used design patterns regularly. So I guess you could say that I'm pretty experienced when it comes to design patterns. The funny thing is, I've never even heard of the phrase "design pattern" until recently.
-
-<img src="/images/design-patterns-meme.jpg" width="50%" alt="Design Patterns">
+<p align="center">
+<img src="/images/design-patterns-meme.jpg" width="25%" alt="Design Patterns"/>
+</p>
 
 So what is a design pattern? It's a reusable solution to recurring problems in software design. It's sort of like a template. These are especially helpful for new programmers.
 
