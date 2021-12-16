@@ -8,7 +8,7 @@ labels:
 - development environments
 - coding standards
 ---
-I noticed how most of the time I spend programming is spent debugging. During these past few months, I strongly believe that my software engineering skills have improved. For example, in previous programming courses that I've taken, whenever I run into a bug, it felt like I would take  hours just to figure out what was wrong then I would take spend another few hours to figure out a solution that works. But now? I feel confident in my ability to fix bugs in a timely manner.
+I noticed how most of the time I spend programming is spent debugging. During these past few months, I strongly believe that my software engineering skills have improved. For example, in previous programming courses that I've taken, whenever I run into a bug, it felt like I would take  hours just to figure out what was wrong then I would spend another few hours to figure out a solution that works. But now? I feel confident in my ability to fix bugs in a timely manner.
 
 ## Development Environments
 Development environments (or IDEs) are tools that software developers use to create applications. IDEs provide a lot more features than the regular text editors. These features are very helpful for learning to code or even debugging, and are one of the biggest reasons that I believe my software engineering skills improved in the past few months. Of course, you can still create applications using the regular text editors, but why would you do that when there are better ways to do it. My main takeaway from this is that if there is a better way to do something, then why not? You can save a lot of time and effort by utilising the best tools available.
