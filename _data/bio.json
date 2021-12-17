@@ -53,6 +53,10 @@
         "C++",
         "Java",
         "Javascript",
+        "HTML",
+        "CSS",
+        "Semantic UI",
+        "React",
         "Python"
       ]
     },
@@ -62,7 +66,8 @@
       "keywords": [
         "MacOS",
         "Ubuntu",
-        "Windows"
+        "Windows",
+        "GitHub"
       ]
     }
   ],
