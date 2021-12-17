@@ -20,3 +20,10 @@ Surf-Connect is an app that helps UH students find surf spots or surf buddies. T
 ### Connect page
 <img src="/images/connect.png" width="75%" height="75%">
 
+### Development of Surf-Connect
+This project involved working in a group, which was interesting for me because it was my very first programming project working in a group. We used GitHub's project board feature to organize all the work done for the project. For this project we split the work pretty evenly between our team members (3 people). Most of my contributions to this app are on the user side. I was mainly responsible for allowing users to create, edit, and delete their own profiles, and also getting users to display on the connect page.
+
+### Takeaways from the Project
+Since this was my first group programming project, I was nervous at first. I'm also a shy person, so that also added to the tension in the beginning. But in the end, I believe it was a great experience. Being able to work with others is an important skill for this career path. In my opinion, this is my most 'complete' project because we were asked to actually deploy the app. This is actually the first project I contributed to which is on the internet and available for the world to see. It was very satisfying to see the finished product.
+
+Link to the Surf-Connect GitHub page [here](https://surf-connect.github.io/).
