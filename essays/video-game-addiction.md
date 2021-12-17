@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+published: false
 title: Video Game Addiction
 date: 2021-09-02
 labels:
