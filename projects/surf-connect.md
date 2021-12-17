@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+draft: true
 image: images/surf-connect.png
 title: Surf-Connect
 permalink: projects/surf-connect
