@@ -98,31 +98,29 @@
       ]
     }
   ],
-  "work": [
-    {
-      "company": "Benilda Luz-Llena MD",
-      "position": "Office Assistant",
-      "website": "",
-      "startDate": "2012",
-      "endDate": "2012",
-      "summary": "",
-      "highlights": [
-        "Find documents for patients as they sign in",
-        "Organize documents and prepare patient files for their appointment"
-      ]
-    }
-  ],
   "volunteer": [
     {
       "organization": "Bethel Chapel",
       "website": "",
-      "position": "Church Volunteer",
+      "position": "Volunteer",
       "startDate": "2012",
       "endDate": "2012",
       "summary": "",
       "highlights": [
         "Work with youth leaders to organize and host group activities for the kids",
         "Help clean up the church and update bulletin boards and posters"
+      ]
+    },
+    {
+      "organization": "Luz-Llena Benilda C MD Inc",
+      "website": "",
+      "position": "Volunteer",
+      "startDate": "2012",
+      "endDate": "2012",
+      "summary": "",
+      "highlights": [
+        "Find documents for patients as they sign in",
+        "Organize documents and prepare patient files for their appointment"
       ]
     }
   ],
